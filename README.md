@@ -1,7 +1,5 @@
 # ScaleFreeNetworks
 
-Mathematical and Computational Neuroscience Course Project
-
-MATH 472/572 at Colorado School of Mines
+Course Project for MATH 472/572: Mathematical and Computational Neuroscience 
 
 Project authors: Brandon Barton, Lowell Kalman
