@@ -1,4 +1,4 @@
-# NetworkMotifsScale
+# ScaleFreeNetworks
 
 Mathematical and Computational Neuroscience Course Project
 
